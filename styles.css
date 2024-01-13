@@ -16,7 +16,7 @@
 }
 
 .music-player {
-    background: #ffe0e5;
+    background: #25F0F9;
     width: 400px;
     padding: 25px 35px;
     text-align: center;
@@ -35,13 +35,25 @@ nav .circle {
     height: 40px;
     line-height: 40px;
     background: #fff;
-    color: #f53192;
-    box-shadow: 0 5px 10px rgba(255, 26, 26, 0.22);   
+    color: #2598FA;
+    box-shadow: 0 5px 10px rgba(125, 205, 250, 98);   
 }
 
 .song-img {
     width: 220px;
     border-radius: 50%;
     border: 8px solid #fff;
-    box-shadow: 0 10px 60px rgba(255, 26, 26, 0.22); 
+    box-shadow: 0 10px 60px rgba(125, 205, 250, 98); 
+}
+
+.music-player h1 {
+    font-size: 20px;
+    font-weight: 400;
+    color: #333;
+    margin-top: 20px;
+}
+ 
+.music-player p {
+    font-size: 14px;
+    color: #333;
 }
